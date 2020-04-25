@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>agnoia</title><link>https://farabolaza.github.io/agnoia/</link><description>Juntadero de mugre intelectual y coso</description><atom:link href="https://farabolaza.github.io/agnoia/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2020 &lt;a href="mailto:federico.arabolaza@gmail.com"&gt;Federico Arabolaza&lt;/a&gt; </copyright><lastBuildDate>Sat, 25 Apr 2020 19:29:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>test</title><link>https://farabolaza.github.io/agnoia/posts/test/</link><dc:creator>Federico Arabolaza</dc:creator><description>&lt;div class="section" id="primer-post-del-blog"&gt;
+&lt;h2&gt;Primer post del blog&lt;/h2&gt;
+&lt;p&gt;Este es un texto re choto&lt;/p&gt;
+&lt;div class="section" id="titulo-pa-poner-algo"&gt;
+&lt;h3&gt;Titulo pa poner algo&lt;/h3&gt;
+&lt;p&gt;este es otro texto&lt;/p&gt;
+&lt;p&gt;pasa&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><guid>https://farabolaza.github.io/agnoia/posts/test/</guid><pubDate>Sat, 25 Apr 2020 14:46:27 GMT</pubDate></item></channel></rss>
